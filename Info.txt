@@ -1,5 +1,0 @@
-This is a C Program to Create a Circular Linked List (Part of Data Structures) and perform certain Operations on it. You will find more details once you open the main C file. Thank you for Reading. 
-if(you contributed)
-Thank_you_Very_much()😋
-else
-Thank_you_for_investing_your_time_in_my_repository.😅
