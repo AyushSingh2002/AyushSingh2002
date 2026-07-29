@@ -89,28 +89,24 @@ public class Ayush {
 
 ## 📊 By the Numbers
 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&ring_color=2C5364" height="175"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=c9d1d9" height="175"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh2002&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=6DB33F&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh2002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AyushSingh2002&theme=tokyonight&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Ayush_S2002?theme=dark&font=Fira%20Code&extension=activity" height="180"/>
+<img src="https://leetcard.jacoblin.cool/Ayush_S2002?theme=dark&font=Fira%20Code&ext=activity" height="180"/>
 </div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=AyushSingh2002&theme=highcontrast&hide_border=true&background=0D1117&ring=2C5364&fire=6DB33F&currStreakLabel=6DB33F" height="165"/>
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AyushSingh2002/AyushSingh2002/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub>*(Snake animation auto-generates once the <a href="https://github.com/Platane/snk">snk GitHub Action</a> is set up on this repo — happy to walk you through that.)*</sub>
 
 <br>
 
