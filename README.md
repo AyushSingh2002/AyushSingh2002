@@ -17,17 +17,33 @@
 ## `whoami`
 
 ```java
-public class Ayush {
-    private String role      = "Full Stack Java Developer @ Incture Technologies";
-    private String focus     = "Spring Boot · SAP BTP · Distributed Systems";
-    private String[] sideBets = {"Orion Infotech — AIDC trading", "Freelance backend builds"};
-    private String philosophy = "First make it work. Then make it clean. Finally, make it scale.";
+public class Ayush implements BackendEngineer, Entrepreneur {
 
-    public String currentGoal() {
-        return "Becoming an exceptional backend engineer, one system at a time.";
+    private final String dayJob   = "Shipping Java/Spring Boot microservices on SAP BTP";
+    private final String nightJob = "Running an AIDC hardware trading business on the side";
+    private final String obsession = "System design — how the pieces fit, not just that they work";
+
+    private final Deque<String> principles = new ArrayDeque<>(List.of(
+        "Make it work.",
+        "Make it clean.",
+        "Make it scale.",
+        "Then go find the next hard problem."
+    ));
+
+    @Override
+    public String debug() {
+        return "Still reading stack traces at midnight, still enjoying it.";
+    }
+
+    public static void main(String[] args) {
+        Ayush me = new Ayush();
+        // Not just writing code — building the business logic *and* the business.
+        System.out.println(me.debug());
     }
 }
 ```
+
+<sub>*Built systems for enterprise products in production, then built a company on the side to see the other half of the equation.*</sub>
 
 <br>
 
