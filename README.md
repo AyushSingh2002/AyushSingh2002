@@ -1,150 +1,131 @@
 <div align="center">
 
-# Hi there, I'm Ayush Singh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayush%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=18" width="100%"/>
 
-### Java Backend Developer • Spring Boot • System Design Enthusiast
+<a href="https://www.linkedin.com/in/ayush-singh-770a82163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AyushSingh2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ayush_S2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-*"Building scalable backend systems, one API at a time."*
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayush-singh-770a82163/)
-[![GitHub](https://img.shields.io/badge/GitHub-AyushSingh2002-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AyushSingh2002)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Designing+clean+REST+APIs;Scaling+systems+on+SAP+BTP+%2B+Cloud+Foundry;Obsessed+with+system+design;First+make+it+work.+Then+make+it+scale." alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## `whoami`
 
-I'm a Software Engineer with a strong passion for backend engineering and distributed systems. I enjoy designing scalable applications, building clean REST APIs, optimizing performance, and continuously deepening my understanding of software architecture.
+```java
+public class Ayush {
+    private String role      = "Full Stack Java Developer @ Incture Technologies";
+    private String focus     = "Spring Boot · SAP BTP · Distributed Systems";
+    private String[] sideBets = {"Orion Infotech — AIDC trading", "Freelance backend builds"};
+    private String philosophy = "First make it work. Then make it clean. Finally, make it scale.";
 
-Currently, I'm focused on becoming an exceptional Java Backend Engineer by mastering the technologies and concepts that power production-scale applications.
+    public String currentGoal() {
+        return "Becoming an exceptional backend engineer, one system at a time.";
+    }
+}
+```
 
----
+<br>
 
-## 🚀 Currently Learning
+## 🧭 What I'm Building & Learning
 
-* ☕ Advanced Java
-* 🌱 Spring Boot Internals
-* 🏗️ System Design
-* 📦 Microservices
-* ⚙️ Data Structures & Algorithms
-* 🗄️ Database Design & Optimization
-* ☁️ Cloud-Native Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔭 At work**
+- Enterprise microservices on SAP BTP (Cherrywork IMO)
+- Exploring MCP tooling for LLM agent workflows
+- Client-facing platforms for healthcare/pharma
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 On my own time**
+- Sharpening DSA — trees, graphs, DP
+- Full-stack side builds (Next.js / Node.js)
+- System design, deep and often
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
-</p>
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,mysql,html,css&theme=dark" />
 
-### Backend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
+**Backend & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-C5D93C?style=flat-square"/>
 
-**Also experienced with**
+<br><br>
 
-* Spring MVC
-* Spring Data JPA
-* Hibernate
-* REST APIs
-* JUnit
-* Mockito
+**Cloud, SAP & Tools**
+<br>
+<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP_HANA-003C7C?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea&theme=dark" />
 
----
+</div>
 
-### Cloud & Tools
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,eclipse" />
-</p>
+## 📊 By the Numbers
 
-**Worked with**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh2002&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=6DB33F&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh2002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9" height="165"/>
+</div>
 
-* SAP BTP
-* SAP Cloud Foundry
-* SAP HANA Database
-* OData Services
-* Swagger / OpenAPI
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Ayush_S2002?theme=dark&font=Fira%20Code&extension=activity" height="180"/>
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AyushSingh2002&theme=highcontrast&hide_border=true&background=0D1117&ring=2C5364&fire=6DB33F&currStreakLabel=6DB33F" height="165"/>
+</div>
 
-## 🎯 What I'm Interested In
+<br>
 
-* Backend Engineering
-* Software Architecture
-* Distributed Systems
-* High Performance APIs
-* Scalable Microservices
-* Cloud Technologies
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/AyushSingh2002/AyushSingh2002/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-## 📊 GitHub Analytics
+<sub>*(Snake animation auto-generates once the <a href="https://github.com/Platane/snk">snk GitHub Action</a> is set up on this repo — happy to walk you through that.)*</sub>
 
-<p align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushSingh2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh2002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyushSingh2002&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy Showcase
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyushSingh2002&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh2002&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AyushSingh2002">
-<img src="https://img.shields.io/badge/GitHub-AyushSingh2002-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-singh-770a82163/">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
+## 📫 Let's Connect
 
 <div align="center">
 
-### 💡 Philosophy
+<a href="https://www.linkedin.com/in/ayush-singh-770a82163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AyushSingh2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ayush_S2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-> **"First make it work. Then make it clean. Finally, make it scale."**
+<br><br>
 
-*"Learning never exhausts the mind."* — Leonardo da Vinci
+*"Learning never exhausts the mind." — Leonardo da Vinci*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
