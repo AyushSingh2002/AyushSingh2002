@@ -89,23 +89,23 @@ public class Ayush {
 
 ## 📊 By the Numbers
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&ring_color=2C5364" height="175"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=c9d1d9" height="175"/>
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AyushSingh2002&theme=tokyonight&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Ayush_S2002?theme=dark&font=Fira%20Code&ext=activity" height="180"/>
+**GitHub**
+<br>
+<img src="https://img.shields.io/github/followers/AyushSingh2002?style=for-the-badge&logo=github&color=6DB33F&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyushSingh2002&label=Repos&query=%24.public_repos&color=6DB33F&style=for-the-badge&logo=github&labelColor=0D1117"/>
+
+<br><br>
+
+**LeetCode** — [@Ayush_S2002](https://leetcode.com/u/Ayush_S2002/)
+<br>
+<img src="https://img.shields.io/badge/Solved-159-6DB33F?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Easy-84-00b8a3?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Medium-64-ffc01e?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Hard-11-ff375f?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Global_Rank-%231%2C046%2C808-2C5364?style=for-the-badge&labelColor=0D1117"/>
+
 </div>
 
 <br>
