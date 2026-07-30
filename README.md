@@ -54,17 +54,17 @@ public class Ayush implements BackendEngineer, Entrepreneur {
 <td width="50%" valign="top">
 
 **🔭 At work**
-- Enterprise microservices on SAP BTP (Cherrywork IMO)
-- Exploring MCP tooling for LLM agent workflows
-- Client-facing platforms for healthcare/pharma
+- Enterprise-grade microservices on SAP BTP, running in production for real customers
+- Prototyping MCP tooling to hook LLM agents into existing backend systems
+- Client-facing platforms for the healthcare & pharma space
 
 </td>
 <td width="50%" valign="top">
 
 **🌱 On my own time**
-- Sharpening DSA — trees, graphs, DP
-- Full-stack side builds (Next.js / Node.js)
-- System design, deep and often
+- Closing DSA gaps deliberately — trees, graphs, DP
+- Shipping full-stack side projects (Next.js / Node.js)
+- Chasing system design rabbit holes for fun, not just interviews
 
 </td>
 </tr>
